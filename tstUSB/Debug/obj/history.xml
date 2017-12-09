@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -std=gnu99 -c -DSTM32F103CB -DSTM32F10X_MD -DUSE_STM3210B_EVAL -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\ST\test_stm32f100 -I..\..\..\..\..\ST\test_stm32f100\Source -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\STM32_USB-FS-Device_Driver -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\cmsis -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\STM32_USB-FS-Device_Driver\inc -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\Virtual_COM_Port -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\stm_lib\inc -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\stm_lib -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\Virtual_COM_Port\inc -I..\..\..\..\..\ST\test_stm32f100\Source\test_F103_USB\cmsis_boot">
+      <target file="hw_config.o" lastModified="14211e338d3">
+         <source file="..\..\..\Virtual_COM_Port\src\hw_config.c" lastModified="1420310ce95"/>
+      </target>
+      <target file="stm32f10x_spi.o" lastModified="14211e34120">
+         <source file="..\..\..\stm_lib\src\stm32f10x_spi.c" lastModified="1420c33cacc"/>
+      </target>
+      <target file="usb_int.o" lastModified="14211e336b0">
+         <source file="..\..\..\STM32_USB-FS-Device_Driver\src\usb_int.c" lastModified="13c5d13eb20"/>
+      </target>
+      <target file="usb_sil.o" lastModified="14211e33e8f">
+         <source file="..\..\..\STM32_USB-FS-Device_Driver\src\usb_sil.c" lastModified="13c5d13eb20"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="14211e33cab">
+         <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="141c6127f09"/>
+      </target>
+      <target file="core_cm3.o" lastModified="14211e33642">
+         <source file="..\..\..\cmsis\core_cm3.c" lastModified="141c601bffc"/>
+      </target>
+      <target file="test_f100_plate.o" lastModified="142127d91b4">
+         <source file="..\..\..\test_f100_plate.c" lastModified="142127d8c83"/>
+      </target>
+      <target file="misc.o" lastModified="14211e340a3">
+         <source file="..\..\..\stm_lib\src\misc.c" lastModified="141c6146201"/>
+      </target>
+      <target file="usb_endp.o" lastModified="14211e33f6a">
+         <source file="..\..\..\Virtual_COM_Port\src\usb_endp.c" lastModified="141fd42136f"/>
+      </target>
+      <target file="usb_mem.o" lastModified="14211e3417d">
+         <source file="..\..\..\STM32_USB-FS-Device_Driver\src\usb_mem.c" lastModified="141e8549b79"/>
+      </target>
+      <target file="usb_istr.o" lastModified="14211e34391">
+         <source file="..\..\..\Virtual_COM_Port\src\usb_istr.c" lastModified="1420236e946"/>
+      </target>
+      <target file="startup_stm32f10x_md.o" lastModified="14211e33856">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md.c" lastModified="14202247d55"/>
+      </target>
+      <target file="stm32_it.o" lastModified="14212c282ef">
+         <source file="..\..\..\Virtual_COM_Port\src\stm32_it.c" lastModified="14212c27d22"/>
+      </target>
+      <target file="usb_regs.o" lastModified="14211e33817">
+         <source file="..\..\..\STM32_USB-FS-Device_Driver\src\usb_regs.c" lastModified="13c5d13eb20"/>
+      </target>
+      <target file="usb_pwr.o" lastModified="14211e33a3a">
+         <source file="..\..\..\Virtual_COM_Port\src\usb_pwr.c" lastModified="142023ba232"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="14211e33950">
+         <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="141c6127f28"/>
+      </target>
+      <target file="stm32f10x_exti.o" lastModified="14211e33d09">
+         <source file="..\..\..\stm_lib\src\stm32f10x_exti.c" lastModified="141c6135544"/>
+      </target>
+      <target file="usb_desc.o" lastModified="14211e3375c">
+         <source file="..\..\..\Virtual_COM_Port\src\usb_desc.c" lastModified="141fd2704ec"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="14211e3370e">
+         <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="141c601d7f9"/>
+      </target>
+      <target file="usb_core.o" lastModified="14211e3348d">
+         <source file="..\..\..\STM32_USB-FS-Device_Driver\src\usb_core.c" lastModified="13c5d13eb20"/>
+      </target>
+      <target file="delay.o" lastModified="14211e334eb">
+         <source file="..\..\..\delay.c" lastModified="141c6438ca7"/>
+      </target>
+      <target file="font.o" lastModified="14211e33b73">
+         <source file="..\..\..\font.c" lastModified="140a445a41c"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="14211e335f4">
+         <source file="..\..\..\stm_lib\src\stm32f10x_tim.c" lastModified="142039ba704"/>
+      </target>
+      <target file="usb_init.o" lastModified="14211e33a98">
+         <source file="..\..\..\STM32_USB-FS-Device_Driver\src\usb_init.c" lastModified="13c5d13eb20"/>
+      </target>
+      <target file="stm32f10x_adc.o" lastModified="14211e33da5">
+         <source file="..\..\..\stm_lib\src\stm32f10x_adc.c" lastModified="1420360f87f"/>
+      </target>
+      <target file="usb_prop.o" lastModified="14211e339cd">
+         <source file="..\..\..\Virtual_COM_Port\src\usb_prop.c" lastModified="14202335477"/>
+      </target>
+      <target file="stm32f10x_dma.o" lastModified="14211e33fe7">
+         <source file="..\..\..\stm_lib\src\stm32f10x_dma.c" lastModified="14203794fe1"/>
+      </target>
+      <target file="lcd_ste2007.o" lastModified="14211e34323">
+         <source file="..\..\..\lcd_ste2007.c" lastModified="141c64efb98"/>
+      </target>
+      <target file="main.o" lastModified="14212c89cd2">
+         <source file="..\..\..\Virtual_COM_Port\src\main.c" lastModified="14212c897f0"/>
+      </target>
+      <target file="stm32f10x_usart.o" lastModified="14211e33e41">
+         <source file="..\..\..\stm_lib\src\stm32f10x_usart.c" lastModified="141c6127eda"/>
+      </target>
+      <target file="stm3210b_eval.o" lastModified="14211e34045">
+         <source file="..\..\..\stm3210b_eval.c" lastModified="141c648a9db"/>
+      </target>
+   </processor>
+</history>

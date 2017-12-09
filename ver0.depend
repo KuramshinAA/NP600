@@ -1,0 +1,504 @@
+# depslib dependency file v1.0
+1424422438 source:c:\projects\nasos\source\ver0\big_num_segoe_15x20.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1512479454 c:\projects\nasos\source\ver0\lcd_uc1701.h
+	<stdint.h>
+	<stdio.h>
+	"stm32f10x_gpio.h"
+	"bsp.h"
+
+1511296859 c:\projects\nasos\source\ver0\test_f100_plate.h
+	"STM32f10x.h"
+	"delay.h"
+	"lcd_UC1701.h"
+	"key.h"
+	"termo.h"
+	"pwr_mtrx_5_perc.h"
+	"memory.h"
+	"menu.h"
+
+1512479455 c:\projects\nasos\source\ver0\cmsis_boot\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1512479455 c:\projects\nasos\source\ver0\cmsis\core_cm3.h
+	<stdint.h>
+	<intrinsics.h>
+
+1512479455 c:\projects\nasos\source\ver0\cmsis_boot\system_stm32f10x.h
+
+1512479455 c:\projects\nasos\source\ver0\cmsis_boot\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1512479454 c:\projects\nasos\source\ver0\delay.h
+	"stdint.h"
+
+1512479454 c:\projects\nasos\source\ver0\key.h
+
+1426233462 c:\projects\nasos\source\ver0\termo.h
+	"test_f100_plate.h"
+
+1432117080 c:\projects\nasos\source\ver0\pwr_mtrx_5_perc.h
+
+1512479455 c:\projects\nasos\source\ver0\memory.h
+	"STM32f10x.h"
+
+1512479455 c:\projects\nasos\source\ver0\menu.h
+	"bsp.h"
+
+1424422446 source:c:\projects\nasos\source\ver0\big_num_segoe_21x26.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1470642188 source:c:\projects\nasos\source\ver0\big_num_segoe_7x8.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1424428426 source:c:\projects\nasos\source\ver0\big_num_segoe_9x13.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1512479455 source:c:\projects\nasos\source\ver0\cmsis\core_cm3.c
+	<stdint.h>
+
+1512479455 source:c:\projects\nasos\source\ver0\cmsis_boot\startup\startup_stm32f10x_md.c
+
+1512479455 source:c:\projects\nasos\source\ver0\cmsis_boot\system_stm32f10x.c
+	"stm32f10x.h"
+
+1512479454 source:c:\projects\nasos\source\ver0\delay.c
+	"delay.h"
+	"STM32f10x.h"
+
+1424334384 source:c:\projects\nasos\source\ver0\eras_lite_font_rle.c
+	<stdint.h>
+	<lcd_UC1701.h>
+
+1423554082 source:c:\projects\nasos\source\ver0\font.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1512479454 source:c:\projects\nasos\source\ver0\key.c
+	"bsp.h"
+	"stm32f10x_gpio.h"
+	"delay.h"
+	"key.h"
+
+1512479454 source:c:\projects\nasos\source\ver0\lcd_uc1701.c
+	"bsp.h"
+	<stdlib.h>
+	<stdio.h>
+	"lcd_UC1701.h"
+	"delay.h"
+	"font.h"
+
+1512479455 source:c:\projects\nasos\source\ver0\memory.c
+	"bsp.h"
+	"memory.h"
+
+1512483184 source:c:\projects\nasos\source\ver0\menu.c
+	"bsp.h"
+	"inc.h"
+	"font.h"
+	"menu.h"
+
+1432117174 source:c:\projects\nasos\source\ver0\pwr_mtrx_5_perc.c
+	"test_f100_plate.h"
+	"pwr_mtrx_5_perc.h"
+
+1382007554 source:c:\projects\nasos\source\ver0\stm3210b_eval.c
+	"stm3210b_eval.h"
+
+1382007528 c:\projects\nasos\source\ver0\stm3210b_eval.h
+	"stm32f10x.h"
+	"stm32_eval_legacy.h"
+
+1358767684 c:\projects\nasos\source\ver0\stm32_eval_legacy.h
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\misc.c
+	"misc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32_it.c
+	"stm32_it.h"
+	"bsp.h"
+
+1512479457 c:\projects\nasos\source\ver0\stm_lib\inc\stm32_it.h
+	"platform_config.h"
+
+1512479458 c:\projects\nasos\source\ver0\vcp\inc\platform_config.h
+	"stm32l1xx.h"
+	"stm32l152_eval.h"
+	"stm32l152d_eval.h"
+	"stm32f10x.h"
+	"stm32f37x.h"
+	"stm32373c_eval.h"
+	"stm32f30x.h"
+	"stm32303c_eval.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1512479457 source:c:\projects\nasos\source\ver0\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1512479455 source:c:\projects\nasos\source\ver0\syscalls.c
+	<stdio.h>
+	<stdarg.h>
+	<sys/types.h>
+	<sys/stat.h>
+
+1426234052 source:c:\projects\nasos\source\ver0\termo.c
+	"termo.h"
+
+1455771684 source:c:\projects\nasos\source\ver0\test_f100_plate.c
+	"test_f100_plate.h"
+	"delay.h"
+	"stm32F10x.h"
+	"key.h"
+	"lcd_UC1701.h"
+	"menu.h"
+
+1512482931 source:c:\projects\nasos\source\ver0\main.c
+	"inc.h"
+	"bsp.h"
+
+1512479454 c:\projects\nasos\source\ver0\bsp.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1512483122 source:c:\projects\nasos\source\ver0\bsp.c
+	"inc.h"
+	"bsp.h"
+	"menu.h"
+
+1512479456 source:c:\projects\nasos\source\ver0\font\big_num_segoe_7x8.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1512479454 c:\projects\nasos\source\ver0\inc.h
+	"STM32f10x.h"
+	"delay.h"
+	"lcd_UC1701.h"
+	"key.h"
+	"memory.h"
+	"menu.h"
+	"font.h"
+	"counter.h"
+
+1512479456 source:c:\projects\nasos\source\ver0\font\font.c
+	<stdint.h>
+	"lcd_UC1701.h"
+	"font.h"
+
+1512479456 c:\projects\nasos\source\ver0\font\font.h
+	"lcd_UC1701.h"
+
+1512479456 source:c:\projects\nasos\source\ver0\font\icons_3232.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1512479454 c:\projects\nasos\source\ver0\counter.h
+
+1512479454 source:c:\projects\nasos\source\ver0\counter.c
+	"STM32f10x.h"
+	"bsp.h"
+	"counter.h"
+
+1512487168 source:c:\projects\nasos\source\ver01\cmsis\core_cm3.c
+	<stdint.h>
+
+1512487168 source:c:\projects\nasos\source\ver01\cmsis_boot\startup\startup_stm32f10x_md.c
+
+1512487168 source:c:\projects\nasos\source\ver01\cmsis_boot\system_stm32f10x.c
+	"stm32f10x.h"
+
+1512487168 c:\projects\nasos\source\ver01\cmsis_boot\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1512487168 c:\projects\nasos\source\ver01\cmsis\core_cm3.h
+	<stdint.h>
+	<intrinsics.h>
+
+1512487168 c:\projects\nasos\source\ver01\cmsis_boot\system_stm32f10x.h
+
+1512487168 c:\projects\nasos\source\ver01\cmsis_boot\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\misc.h
+	"stm32f10x.h"
+
+1512666162 source:c:\projects\nasos\source\ver01\counter.c
+	"STM32f10x.h"
+	"bsp.h"
+	"counter.h"
+	"font.h"
+	"lcd_UC1701.h"
+
+1512668355 c:\projects\nasos\source\ver01\bsp.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1512666115 c:\projects\nasos\source\ver01\counter.h
+	"memory.h"
+	"font.h"
+	"lcd_UC1701.h"
+	"delay.h"
+
+1512487167 source:c:\projects\nasos\source\ver01\delay.c
+	"delay.h"
+	"STM32f10x.h"
+
+1512487167 c:\projects\nasos\source\ver01\delay.h
+	"stdint.h"
+
+1512487169 source:c:\projects\nasos\source\ver01\font\big_num_segoe_7x8.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1512487169 source:c:\projects\nasos\source\ver01\font\font.c
+	<stdint.h>
+	"lcd_UC1701.h"
+	"font.h"
+
+1512487169 c:\projects\nasos\source\ver01\font\font.h
+	"lcd_UC1701.h"
+
+1512487169 source:c:\projects\nasos\source\ver01\font\icons_3232.c
+	<stdint.h>
+	"lcd_UC1701.h"
+
+1512487167 source:c:\projects\nasos\source\ver01\key.c
+	"bsp.h"
+	"stm32f10x_gpio.h"
+	"delay.h"
+	"key.h"
+
+1512487167 c:\projects\nasos\source\ver01\key.h
+
+1512490028 source:c:\projects\nasos\source\ver01\lcd_uc1701.c
+	"bsp.h"
+	<stdlib.h>
+	<stdio.h>
+	"lcd_UC1701.h"
+	"delay.h"
+	"font.h"
+
+1512489962 c:\projects\nasos\source\ver01\lcd_uc1701.h
+	<stdint.h>
+	<stdio.h>
+	"stm32f10x_gpio.h"
+	"bsp.h"
+
+1512663323 source:c:\projects\nasos\source\ver01\memory.c
+	"bsp.h"
+	"memory.h"
+	"font.h"
+	"lcd_UC1701.h"
+	"delay.h"
+
+1512663275 c:\projects\nasos\source\ver01\memory.h
+	"STM32f10x.h"
+	"bsp.h"
+	"menu.h"
+
+1512667810 source:c:\projects\nasos\source\ver01\menu.c
+	"bsp.h"
+	"inc.h"
+	"font.h"
+	"menu.h"
+	"counter.h"
+
+1512487167 c:\projects\nasos\source\ver01\inc.h
+	"STM32f10x.h"
+	"delay.h"
+	"lcd_UC1701.h"
+	"key.h"
+	"memory.h"
+	"menu.h"
+	"font.h"
+	"counter.h"
+
+1512581956 c:\projects\nasos\source\ver01\menu.h
+	"bsp.h"
+
+1512487171 source:c:\projects\nasos\source\ver01\stm_lib\src\misc.c
+	"misc.h"
+
+1512487171 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32_it.c
+	"stm32_it.h"
+	"bsp.h"
+
+1512487171 c:\projects\nasos\source\ver01\stm_lib\inc\stm32_it.h
+	"platform_config.h"
+
+1512487173 c:\projects\nasos\source\ver01\vcp\inc\platform_config.h
+	"stm32l1xx.h"
+	"stm32l152_eval.h"
+	"stm32l152d_eval.h"
+	"stm32f10x.h"
+	"stm32f37x.h"
+	"stm32373c_eval.h"
+	"stm32f30x.h"
+	"stm32303c_eval.h"
+
+1512487171 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1512487171 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1512487171 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1512487172 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1512487172 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1512487172 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1512487172 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1512487172 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1512487172 source:c:\projects\nasos\source\ver01\stm_lib\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1512487168 source:c:\projects\nasos\source\ver01\syscalls.c
+	<stdio.h>
+	<stdarg.h>
+	<sys/types.h>
+	<sys/stat.h>
+
+1512669785 source:c:\projects\nasos\source\ver01\bsp.c
+	"inc.h"
+	"bsp.h"
+	"menu.h"
+
+1512667563 source:c:\projects\nasos\source\ver01\main.c
+	"inc.h"
+	"bsp.h"
+
